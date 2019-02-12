@@ -40,7 +40,7 @@ $ make --version
 GNU Make 4.1
 Built for i686-pc-cygwin
 Copyright (C) 1988-2014 Free Software Foundation, Inc.
-License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+License GPLv3+: GNU GPL version 3 or later 'http://gnu.org/licenses/gpl.html'
 This is free software: you are free to change and redistribute it.
 # Проверка версии subl
 $ subl --version
